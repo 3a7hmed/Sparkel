@@ -695,6 +695,14 @@ footer .content{
     }
     .c-col{margin-left: 65px;}
     .l-col .contact-us{width: 80%;}
+    .portfolio .pj .content .text{
+      margin-left: 70px;
+      margin-top: -218px;
+      width: 170px;
+    }
+    .pj .content .text .content-t{
+      width: 210px;
+    }
 }
  /* tablet size */
 @media  screen and (min-width:768px) and (max-width:992px){
